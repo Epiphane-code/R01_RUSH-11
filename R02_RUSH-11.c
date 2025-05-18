@@ -363,7 +363,7 @@ int main()
             break;
         }
         case 4: {
-            moyenne();
+            moyenne;
             break;
         }
         case 5: {
