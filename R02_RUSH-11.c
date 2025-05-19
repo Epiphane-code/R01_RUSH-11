@@ -301,16 +301,17 @@ int main()
        printf("____________________________________________________________________________________________________________\n"); 
        printf("____________________________________________________________________________________________________________\n"); 
        printf("\nChoisissez une option\n"); 
-       printf("1. PGDC/PPCM:Calculer le PPCM ou PGDC de deux nombres\n"); 
-       printf("2. SUITES:Calculer et afficher les termes d'une suite Arithmetique ou Geometrique\n"); 
-       printf("3. MOYENNE:Calculer et afficher la moyenne de n nombres\n"); 
-       printf("4. INVERSE:Determiner l'inverse d'un nombre\n"); 
-       printf("5. Calculatrice:Calculs simples \n"); 
-       printf("6. TABLE DE MULTIPLICATION:Afficher la table de multiplication d'un nombre entier\n"); 
-       printf("7. PARITE:Verifier si le nombre est pair\n"); 
-       printf("8. NombrePremier:Verifier si le nombre est premier\n");
-       printf("9. FACTORIELLE:Calcul factorielle\n");
-       printf("10. TRIE:trier les nombres\n");
+       printf("1. PGDC:Calculer le PGDC de deux nombres\n"); 
+       printf("2. PPCM:Calculer le PPCM de deux nombres\n");
+       printf("3. SUITES:Calculer et afficher les termes d'une suite Arithmetique ou Geometrique\n"); 
+       printf("4. MOYENNE:Calculer et afficher la moyenne de n nombres\n"); 
+       printf("5. INVERSE:Determiner l'inverse d'un nombre\n"); 
+       printf("6. Calculatrice:Calculs simples \n"); 
+       printf("7. TABLE DE MULTIPLICATION:Afficher la table de multiplication d'un nombre entier\n"); 
+       printf("8. PARITE:Verifier si le nombre est pair\n"); 
+       printf("9. NombrePremier:Verifier si le nombre est premier\n");
+       printf("10. FACTORIELLE:Calcul factorielle\n");
+       printf("11. TRIE:trier les nombres\n");
        printf("0. Quitter\n");
 
        int choix;
